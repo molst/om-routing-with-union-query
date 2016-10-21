@@ -1,0 +1,3 @@
+{:require [myapp.root]
+ :compiler-options {:optimizations :none
+                    :asset-path "../cljs-app/myapp/root.out"}}
